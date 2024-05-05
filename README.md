@@ -52,8 +52,8 @@ endmodule
 
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by:**Bakkiyalakshmi**
-RegisterNumber:**2112223220012**
+Developed by:**Bakkiyalakshmi E**
+RegisterNumber:**212223220012**
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
@@ -65,3 +65,5 @@ RegisterNumber:**2112223220012**
 ![image](https://github.com/Bakkiyalakshmiethiraj/T-FLIPFLOP-POSEDGE/assets/144870983/2212cf5b-e205-4d51-b4d7-5265f2e08dbb)
 
 **RESULTS**
+
+Hence, T flipflop using verilog and validating their functionality using their functional tables is implemented.
